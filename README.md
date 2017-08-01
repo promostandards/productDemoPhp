@@ -6,5 +6,5 @@ I have chosen the Yii framework for these examples as we at Hit extensively use 
 
 Please reach out if you have any questions or concerns.
 
-[demo-ref]:http://ds.hitpromo.net/site/testProductData
-[yii-framework]http://www.yiiframework.com/doc/guide/1.1/en/quickstart.what-is-yii
+Demo page http://ds.hitpromo.net/site/testProductData
+Yii framework http://www.yiiframework.com/doc/guide/1.1/en/quickstart.what-is-yii
