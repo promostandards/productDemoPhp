@@ -2,7 +2,7 @@
 Product,Pricing,Media,Inventory and PO web service consumption examples in Yii
 
 
-I have chosen the Yii framework for these examples as we at Hit extensively use it and php without a framework, is not too nice to work with. I have tried to write the code concise and descreptive as possible.
+I have chosen the Yii framework for these examples as we at Hit extensively use it and php without a framework, is not too nice to work with. I have tried to write the code concise and descreptive as possible. Bootstrap also needs to be loaded for this to render correct.
 
 Please reach out if you have any questions or concerns.
 
